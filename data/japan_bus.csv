@@ -1,0 +1,6 @@
+company, total_bus, low_floor_bus, rate
+Toei Bus, 1440,1440, 100
+Keio Bus, 858, 729, 84.9
+Tokyu Bus, 911, 822, 95.0
+Seibu Bus, 859, ,
+Odakyu Bus, 548, ,
